@@ -1,4 +1,4 @@
-# sqa-lab
+# SQA-LAB
 QA portfolio showcasing manual testing, test case design, bug reporting, and basic automation practice for real-world web applications.
 # Project_API_Testing report 01
 <h3><a href="https://newmanreport01.netlify.app/"> Click here to see the newman report </a></h3>
