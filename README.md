@@ -69,16 +69,16 @@
 
 
 
-# Test_case_Bug_report_Tes_summary _Mind_map
 
-# Test Case Works for QASE
+
+# Test Case Works for Bikalpo Shop
 
 ### Test Cases
 
 Some of the samples of the Test Cases.
 
 <p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test_case.png" />
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20testcase.png" />
 </p>
 
 ### Bug Report
@@ -86,89 +86,7 @@ Some of the samples of the Test Cases.
 Some of the samples of the Bug Report.
 
 <p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/bug_report.png" />
-</p>
-
-
-### Bug summary
-Some of the samples of the test summary.
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test_summary.png" />
-</p>
-
-
-### Mind map
-Some of the samples of the mind map.
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/mind_map.png" />
-</p>
-
-
-# Test Case Works for BDSHOP
-
-### Test Cases
-
-Some of the samples of the Test Cases.
-
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/testcase%20bd%20shop.png" />
-</p>
-
-
-### Bug Report
-
-Some of the samples of the Bug Report.
-
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/bug%20repport%20bdshop.png" />
-</p>
-
-
-
-### Test report
-Some of the samples of the test report.
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test%20report%20bd%20shop.png" />
-</p>
-
-### Test metrics
-Some of the samples of the test metrics.
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test%20metrics%20bd%20shop.png" />
-</p>
-
-### Mind map
-Some of the samples of the mind map.
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/mindmap%20bd%20shop.png" />
-</p>
-
-
-# Test Case Works for WALMART
-
-### Test Cases
-
-Some of the samples of the Test Cases.
-
-<p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/testcase%20for%20walmart.png" />
-</p>
-
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Typing SVG" />
-  </a>
-</h3>
-
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=🛠️+Junior+SQA+Engineer+|+Software+Quality+Assurance+Enthusiast" alt="Typing SVG" />
-  </a>
-</h4>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqul-islam23344" />
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20Bug.png" />
 </p>
 
 
