@@ -1,0 +1,111 @@
+[ {
+  "uid" : "4dfaf11fd0aa8740",
+  "name" : "testLoginPageInvalidPassword",
+  "time" : {
+    "start" : 1720071789932,
+    "stop" : 1720071791040,
+    "duration" : 1108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "567d84c35f196baa",
+  "name" : "testLoginWithValidCredentials",
+  "time" : {
+    "start" : 1720071782106,
+    "stop" : 1720071786795,
+    "duration" : 4689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3ef56d243eac889",
+  "name" : "testLoginWithoutCredentials",
+  "time" : {
+    "start" : 1720071793095,
+    "stop" : 1720071794099,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b38033c5ec6755fa",
+  "name" : "testLoginWithoutCredentials",
+  "time" : {
+    "start" : 1720071792053,
+    "stop" : 1720071792968,
+    "duration" : 915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c89dbd3370cb658",
+  "name" : "testLoginPageWithoutUserName",
+  "time" : {
+    "start" : 1720071787801,
+    "stop" : 1720071788702,
+    "duration" : 901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c5f5da4f18631ff",
+  "name" : "testLoginWithoutCredentials",
+  "time" : {
+    "start" : 1720071795224,
+    "stop" : 1720071796372,
+    "duration" : 1148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "334dffdfc6c02238",
+  "name" : "testLoginPageInvalidUserNameAndPassword",
+  "time" : {
+    "start" : 1720071788816,
+    "stop" : 1720071789840,
+    "duration" : 1024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "524227442a59d78f",
+  "name" : "testLoginWithoutCredentials",
+  "time" : {
+    "start" : 1720071791154,
+    "stop" : 1720071791978,
+    "duration" : 824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "696f405b5edba3db",
+  "name" : "testAddToCartButton",
+  "time" : {
+    "start" : 1720071798149,
+    "stop" : 1720071798692,
+    "duration" : 543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae413e9be971b384",
+  "name" : "testLoginWithoutCredentials",
+  "time" : {
+    "start" : 1720071794183,
+    "stop" : 1720071795162,
+    "duration" : 979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a887769da41c703c",
+  "name" : "testLoginPageWithoutCredentials",
+  "time" : {
+    "start" : 1720071786996,
+    "stop" : 1720071787713,
+    "duration" : 717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,118 @@
+{
+  "uid" : "524227442a59d78f",
+  "name" : "testLoginWithoutCredentials",
+  "fullName" : "testcases.DemoLoginTest.testLoginWithoutCredentials",
+  "historyId" : "f5ffa488033a93dd868d6b8f34861bb4",
+  "time" : {
+    "start" : 1720071791154,
+    "stop" : 1720071791978,
+    "duration" : 824
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "navigateToLoginPage",
+    "time" : {
+      "start" : 1720071791062,
+      "stop" : 1720071791132,
+      "duration" : 70
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1720071769852,
+      "stop" : 1720071780394,
+      "duration" : 10542
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1720071798717,
+      "stop" : 1720071801883,
+      "duration" : 3166
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginWithoutCredentials"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Usersbasicjavajavabasicm1/PageObjectModelRedo/src/test/java/testcases"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8D6RKS3"
+  }, {
+    "name" : "thread",
+    "value" : "12472@DESKTOP-8D6RKS3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : ""
+  }, {
+    "name" : "arg1",
+    "value" : ""
+  }, {
+    "name" : "arg2",
+    "value" : "Epic sadface: Username is required"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "524227442a59d78f.json",
+  "parameterValues" : [ "", "", "Epic sadface: Username is required" ]
+}
