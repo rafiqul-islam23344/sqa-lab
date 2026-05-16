@@ -1,0 +1,109 @@
+{
+  "uid" : "4dfaf11fd0aa8740",
+  "name" : "testLoginPageInvalidPassword",
+  "fullName" : "testcases.DemoLoginTest.testLoginPageInvalidPassword",
+  "historyId" : "3ee9a12f277258364ea2811af83fbdcc",
+  "time" : {
+    "start" : 1720071789932,
+    "stop" : 1720071791040,
+    "duration" : 1108
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "navigateToLoginPage",
+    "time" : {
+      "start" : 1720071789847,
+      "stop" : 1720071789922,
+      "duration" : 75
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1720071769852,
+      "stop" : 1720071780394,
+      "duration" : 10542
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1720071798717,
+      "stop" : 1720071801883,
+      "duration" : 3166
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginPageInvalidPassword"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Usersbasicjavajavabasicm1/PageObjectModelRedo/src/test/java/testcases"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.DemoLoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8D6RKS3"
+  }, {
+    "name" : "thread",
+    "value" : "12472@DESKTOP-8D6RKS3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dfaf11fd0aa8740.json",
+  "parameterValues" : [ ]
+}

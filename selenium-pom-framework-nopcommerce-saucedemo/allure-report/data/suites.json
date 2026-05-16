@@ -1,0 +1,153 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "C:/Usersbasicjavajavabasicm1/PageObjectModelRedo/src/test/java/testcases",
+      "children" : [ {
+        "name" : "testcases.DemoLoginTest",
+        "children" : [ {
+          "name" : "testLoginWithValidCredentials",
+          "uid" : "567d84c35f196baa",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071782106,
+            "stop" : 1720071786795,
+            "duration" : 4689
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginPageWithoutCredentials",
+          "uid" : "a887769da41c703c",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071786996,
+            "stop" : 1720071787713,
+            "duration" : 717
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginPageWithoutUserName",
+          "uid" : "9c89dbd3370cb658",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071787801,
+            "stop" : 1720071788702,
+            "duration" : 901
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginPageInvalidUserNameAndPassword",
+          "uid" : "334dffdfc6c02238",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071788816,
+            "stop" : 1720071789840,
+            "duration" : 1024
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginPageInvalidPassword",
+          "uid" : "4dfaf11fd0aa8740",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071789932,
+            "stop" : 1720071791040,
+            "duration" : 1108
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginWithoutCredentials",
+          "uid" : "524227442a59d78f",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071791154,
+            "stop" : 1720071791978,
+            "duration" : 824
+          },
+          "flaky" : false,
+          "parameters" : [ "", "", "Epic sadface: Username is required" ]
+        }, {
+          "name" : "testLoginWithoutCredentials",
+          "uid" : "b38033c5ec6755fa",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071792053,
+            "stop" : 1720071792968,
+            "duration" : 915
+          },
+          "flaky" : false,
+          "parameters" : [ "standard_user", "", "Epic sadface: Password is required" ]
+        }, {
+          "name" : "testLoginWithoutCredentials",
+          "uid" : "b3ef56d243eac889",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071793095,
+            "stop" : 1720071794099,
+            "duration" : 1004
+          },
+          "flaky" : false,
+          "parameters" : [ "", "secret_sauce", "Epic sadface: Username is required" ]
+        }, {
+          "name" : "testLoginWithoutCredentials",
+          "uid" : "ae413e9be971b384",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071794183,
+            "stop" : 1720071795162,
+            "duration" : 979
+          },
+          "flaky" : false,
+          "parameters" : [ "username", "password", "Epic sadface: Username and password do not match any user in this service" ]
+        }, {
+          "name" : "testLoginWithoutCredentials",
+          "uid" : "1c5f5da4f18631ff",
+          "parentUid" : "9168762411107ed0cea5e863e06283fa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071795224,
+            "stop" : 1720071796372,
+            "duration" : 1148
+          },
+          "flaky" : false,
+          "parameters" : [ "standard_user", "password", "Epic sadface: Username and password do not match any user in this service" ]
+        } ],
+        "uid" : "9168762411107ed0cea5e863e06283fa"
+      }, {
+        "name" : "testcases.TestProductPage",
+        "children" : [ {
+          "name" : "testAddToCartButton",
+          "uid" : "696f405b5edba3db",
+          "parentUid" : "f1a6d94bf690727875dbd8c3f4a8a06a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720071798149,
+            "stop" : 1720071798692,
+            "duration" : 543
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f1a6d94bf690727875dbd8c3f4a8a06a"
+      } ],
+      "uid" : "2b7c16059624c52134e101cab84a9e79"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}
