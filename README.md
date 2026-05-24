@@ -89,6 +89,26 @@ Some of the samples of the Bug Report.
   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20Bug.png" />
 </p>
 
+# Test Case Works for Volume Amplifier 
+
+### Test Cases
+
+Some of the samples of the Test Cases.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/1.png" />
+    <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/2.png" />
+</p>
+
+### Bug Report
+
+Some of the samples of the Bug Report.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/3.png" />
+   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/4.png" />
+</p>
+
 
 
 
